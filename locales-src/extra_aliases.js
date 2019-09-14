@@ -204,6 +204,14 @@ module.exports = {
     "وقتی که پرچم کلیک شد": "when @greenFlag clicked",
     آخر: "end",
   },
+  
+  ja: {
+    // Japanese
+    "@turnLeft %1 度回す":  "turn @turnLeft %1 degrees",
+    "@turnRight %1 度回す":  "turn @turnRight %1 degrees",
+    "@greenFlag が押されたとき": "when @greenFlag clicked",
+    end: "end" // Use "end" as it was before
+  }
 
   // : { // template
   //   '': 'turn @turnLeft %1 degrees',
